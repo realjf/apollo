@@ -51,3 +51,7 @@ func main() {
 }
 
 ```
+
+### Features
+
+- Support json.yaml,proto,xml,form format
